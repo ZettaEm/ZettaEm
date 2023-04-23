@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-I've been learning Html, Css, JavaScript for 6 years
+I've been learning Html, Css, JavaScript
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [mkub456@gmail.com](mailto:mkub456@gmail.com)
