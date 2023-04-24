@@ -7,7 +7,7 @@ Student
 I've been learning Html, Css, JavaScript for 6 years
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [Chanachai](http://portfolio-b116e.web.app/)
+* 🖥️  See my portfolio at [Browse](http://portfolio-b116e.web.app/)
 * ✉️  You can contact me at [mkub456@gmail.com](mailto:mkub456@gmail.com)
 * 🧠  I'm learning Html, Css , JavaScript and other
 
