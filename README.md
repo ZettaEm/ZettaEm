@@ -1,12 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chanachai Benmat
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chanachi Benmat
 =======================================================================================================================================
 
 Student
 -------
 
-I've been learning Html, Css, JavaScript
+I've been learning Html, Css, JavaScript for 6 years
 
 * 🌍  I'm based in Bangkok, Thailand
+* 🖥️  See my portfolio at [Chanachai](http://portfolio-b116e.web.app/)
 * ✉️  You can contact me at [mkub456@gmail.com](mailto:mkub456@gmail.com)
 * 🧠  I'm learning Html, Css , JavaScript and other
 
